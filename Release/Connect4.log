@@ -1,0 +1,11 @@
+﻿Source.cpp(361,14): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vcruntime.h(316,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vcruntime.h(306,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+Source.cpp(366,14): warning : 'fopen' is deprecated: This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(207,20): message : 'fopen' has been explicitly marked deprecated here
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vcruntime.h(316,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\vcruntime.h(306,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+Source.cpp(465,67): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+Source.cpp(467,24): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+  Connect4.vcxproj -> C:\Users\farof\source\repos\Connect4\Release\Connect4.exe
